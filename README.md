@@ -27,7 +27,7 @@ Parameters and alphabets can't always be the same in different situation.
 
 ### Train
 
-Run `mytrain.py` by
+Run `mytrain.py` - 
 
 ```sh
 python3 mytrain.py --trainRoot /ssd_scratch/cvit/sanjana/hindi-train-lmdb \
