@@ -40,7 +40,7 @@ python3 mytrain.py --trainRoot /ssd_scratch/cvit/sanjana/hindi-train-lmdb \
 
 ## Reference
 
-[meijieru/crnn.pytorch](<https://github.com/meijieru/crnn.pytorch>)
+[meijieru/crnn.pytorch](<https://github.com/meijieru/crnn.pytorch>) \
 [Sierkinhane/crnn_chinese_characters_rec](<https://github.com/Sierkinhane/crnn_chinese_characters_rec>)
 
 If you use the dataset or code from this work, please add the following citation:-
