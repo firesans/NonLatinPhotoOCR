@@ -1,5 +1,7 @@
 # Convolutional Recurrent Neural Network + CTCLoss | STAR-Net
 
+Code for paper "[Towards Boosting the Accuracy of Non-Latin Scene Text Recognition](https://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2021/Improving_Arabic_STR_accuracies__ASAR21.pdf)"
+
 ## Dependence
 
 - Python3.6.5
@@ -7,7 +9,7 @@
 - torchvision==0.4.0
 - tensorboard==2.3.0
 
-## Train your data
+## How to run the code?
 
 ### Prepare data
 
@@ -40,3 +42,15 @@ python3 mytrain.py --trainRoot /ssd_scratch/cvit/sanjana/hindi-train-lmdb \
 
 [meijieru/crnn.pytorch](<https://github.com/meijieru/crnn.pytorch>)
 [Sierkinhane/crnn_chinese_characters_rec](<https://github.com/Sierkinhane/crnn_chinese_characters_rec>)
+
+If you use the dataset or code from this work, please add the following citation:-
+
+```
+@inproceedings{gunnaNonLatin2021,
+  title={Towards {B}oosting the {A}ccuracy of {N}on-{L}atin {S}cene {T}ext {R}ecognition,
+  author={Sanjana Gunna and Rohit Saluja and C V Jawahar},
+  booktitle={2021 International Conference on Document Analysis and Recognition Workshops (ICDARW)},
+  year={2021},
+  organization={IEEE}
+}
+``
