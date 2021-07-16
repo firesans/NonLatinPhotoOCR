@@ -13,7 +13,7 @@ Code for paper "[Towards Boosting the Accuracy of Non-Latin Scene Text Recogniti
 
 ### Prepare data
 
-- Follow the instructions in [meijieru/crnn.pytorch](<https://github.com/meijieru/crnn.pytorch>) to create lmdb datasets
+- Follow the instructions in [meijieru/crnn.pytorch](<https://github.com/meijieru/crnn.pytorch>) to create lmdb datasets.
 	Use the same step to create train and val data.
 
 ### Change parameters and alphabets
