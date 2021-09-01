@@ -18,12 +18,12 @@ Code for paper "[Towards Boosting the Accuracy of Non-Latin Scene Text Recogniti
 
 ### Change parameters and alphabets
 
-Parameters and alphabets can't always be the same in different situation. 
+Please update the parameters and alphabets according to the requirement. 
 
 - Change parameters in the mytrain.py file
 - Change alphabets
 
-  Please put all the alphabets appeared in your labels in a file and input as charlist to the mytrain.py, or the program will throw error during training process.
+  Please put all the alphabets appeared in your labels in a file and input as charlist to the mytrain.py, or the program will throw an error during training.
 
 ### Train
 
