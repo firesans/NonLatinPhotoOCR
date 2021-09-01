@@ -1,0 +1,194 @@
+ GIST\-DVOTKishor
+ Sarala
+ Sumana
+ Asar
+ Utsaah
+ Sura
+ GIST\-KOK\-DVOTVinit
+ GIST\-MROTVinit
+ GIST\-KAS\-DVOTVinit
+ Nakula
+ Lohit Marathi
+ GISTOT\-DGRDhruv
+ Lohit Nepali
+ GIST\-DVOTMohini
+ GIST\-SND\-DVOTDhruv
+ Rhodium Libre
+ Biryani
+ Sarpanch
+ Kadwa
+ Martel
+ Khand ExtraLight
+ Amita
+ Samanata
+ Lohit Konkani
+ Sahitya
+ Nirmala UI
+ Kurale
+ GIST\-KOK\-DVOTDhruv
+ Dinah
+ Teko
+ Aparajita
+ Lohit Maithili
+ Ranga
+ Lohit Sindhi
+ Gurumaa\-2.04
+ Arya
+ Samyak Devanagari
+ GISTOT\-DGRVinit
+ Gurumaa\-1.50
+ Palanquin
+ Dekko
+ Sitara
+ Khand SemiLight
+ Khand Light
+ Yantramanav
+ Vesper Libre
+ Noto Sans
+ Sanskrit 2003
+ CDAC\-GISTYogesh
+ GIST\-SDOTDhruv
+ GISTOT\-BRXVinit
+ Lohit Devanagari
+ gargi
+ Akshar Unicode
+ Kokila
+ Khand Black
+ Modak
+ Palanquin Dark
+ GIST\-SAT\-DVOTVinit
+ GIST\-SAT\-DVOTDhruv
+ Khand Bold
+ Khand
+ Jaldi
+ Lohit Kashmiri
+ Khand SemiBold
+ Sarai
+ GISTOT\-MAIVinit
+ GISTOT\-NEPDhruv
+ Ek Mukta
+ GISTOT\-NEPVinit
+ Khula
+ Sanskrit Text
+ Eczar
+ Amiko
+ Khand ExtraBold
+ Sahadeva
+ Laila
+ GISTOT\-BRXDhruv
+ SHREE\-DV0726\-OT
+ Rozha One
+ Pragati Narrow
+ Chandas
+ GIST\-KAS\-DVOTDhruv
+ GISTOT\-MAIDhruv
+ SakalBharati
+ CDAC\-GISTSurekh
+ Glegoo
+ Siddhanta
+ GIST\-SDOTVinit
+ Bhavuka
+ Martel Sans
+ Baloo
+ Varta
+ GIST\-MROTDhruv
+ DinahVAA
+ GIST\-SND\-DVOTVinit
+ Inknut Antiqua
+Krutidev_090_bold_italic
+Krutidev_060_condensed
+Krutidev_070_italic
+DevLys 130 Wide Normal
+Krutidev_060_thin
+Krutidev_070_thin
+DevLys 150 d 150
+Krutidev_130_thin
+DevLys 300 Bold
+DevLys 150 Normal
+DevLys 060 Normal
+Tillana-Regular
+DevLys 060 Wide Normal
+DevLys 120 Bold
+DevLys 320 Bold
+DevLys 200 Normal
+Krutidev_070_wide
+DevLys 280 Normal
+DevLys 070 Thin Normal
+DevLys 160 Bold
+Krutidev_060_bold_italic
+Krutidev_100_condensed
+Krutidev_060_wide
+Krutidev_011
+Krutidev_120_thin
+DevLys 240 Normal
+shusha
+DevLys 090 Thin Normal
+Krutidev_120_condensed
+Krutidev_090_bold
+DevLys 050 Wide Normal
+Krutidev_100
+DevLys 260 Normal
+DevLys 400 Bold
+DevLys 290 Normal
+Krutidev_100_bold
+Krutidev_040_bold_italic
+Krutidev_090_italic
+DevLys 400 Normal
+DevLys 390 Bold
+Krutidev_055
+Krutidev_040_condenced
+Krutidev_040_italic
+Krutidev_090_wide
+DevLys 300 Normal
+Krutidev_080_italic
+Krutidev_070
+DevLys 090 Wide Normal
+DevLys 260 Thin Normal
+Krutidev_100_wide
+DevLys 360 Bold
+DevLys 270 Thin Normal
+Krutidev_060
+DevLys 060 Bold
+DevLys 130 Normal
+DevLys 330 Thin Normal
+Kalam-Regular
+DevLys 330 Normal
+Rajdhani-Regular
+Shobhika-Bold
+DevLys 040 Italic
+Krutidev_120
+Krutidev_040_bold
+Krutidev_090_thin
+DevLys 350 Wide Normal
+DevLys 370 Thin Normal
+wnrir
+Karma-Regular
+Poppins-Regular
+Krutidev_130_wide
+Krutidev_100_bold_italic
+YatraOne-Regular
+Krutidev_040_wide
+Sans98
+k010
+Shobhika-Regular
+DevLys 070 Normal
+Krutidev_130
+DevLys 220 Bold
+Sans-new
+Krutidev_100_thin
+DevLys 060 Thin Normal
+Krutidev_040_thin
+Krutidev_080_condensed
+Krutidev_070_condensed
+Krutidev_090
+Krutidev_060_Italic
+DevLys 350 Normal
+DevLys 090 Normal
+DevLys 050 Normal
+XDVNGm
+Krutidev_080_wide
+DevLys 270 Normal
+Krutidev_120_wide
+Krutidev_130_condensed
+Halant-Regular
+Krutidev_060_bold
