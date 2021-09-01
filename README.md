@@ -23,7 +23,7 @@ Please update the parameters and alphabets according to the requirement.
 - Change parameters in the mytrain.py file
 - Change alphabets
 
-  Please put all the alphabets appeared in your labels in a file and input as charlist to the mytrain.py, or the program will throw an error during training.
+  Please put all the alphabets that appear in your labels in a file and input the list as charlist to mytrain.py, else the program will throw an error during training.
 
 ### Train
 
